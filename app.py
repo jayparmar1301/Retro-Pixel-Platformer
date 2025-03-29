@@ -475,7 +475,6 @@ def update_game():
 
     # Check if player falls off the screen
     fall_threshold = GAME_HEIGHT - 41
-    st.write(GAME_HEIGHT, st.session_state.player_y, fall_threshold)
     if st.session_state.player_y > fall_threshold or st.session_state.player_y == -10:
         st.session_state.lives -= 1
         st.session_state.player_x = 50
