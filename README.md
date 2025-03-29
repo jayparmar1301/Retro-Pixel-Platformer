@@ -1,6 +1,6 @@
-# Retro Pixel Platformer
+# Retro Runner
 
-**Retro Pixel Platformer** is a nostalgic, 2D pixel art platformer game built with Streamlit. Inspired by the classics of the 80s and 90s, this game offers a retro gaming experience with pixelated graphics and simple yet addictive gameplay. The player controls a pixelated character, jumping across platforms to collect coins and special gems while avoiding obstacles and falling off the screen. The game features multiple levels, each progressively harder, with a scoring system based on collected items and lives.
+**Retro Runner** is a nostalgic, 2D pixel art platformer game built with Streamlit. Inspired by the classics of the 80s and 90s, this game offers a retro gaming experience with pixelated graphics and simple yet addictive gameplay. The player controls a pixelated character, jumping across platforms to collect coins and special gems while avoiding obstacles and falling off the screen. The game features multiple levels, each progressively harder, with a scoring system based on collected items and lives.
 
 ---
 
