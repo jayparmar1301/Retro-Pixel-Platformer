@@ -33,3 +33,24 @@ To run the game locally:
 
    ```bash
    git clone https://github.com/your-username/retro-pixel-platformer.git
+
+2. Install required dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the app:
+
+   ```bash
+   streamlit run app.py
+
+
+## Technologies Used
+Streamlit: For creating the web interface and running the game logic.
+
+Python: The main language used for the game’s development.
+
+PIL: Python Imaging Library used for generating pixel art graphics.
+
+   
+   
