@@ -8,7 +8,7 @@ from io import BytesIO
 
 # Set page config
 st.set_page_config(
-    page_title="Retro Pixel Platformer", page_icon="🎮", layout="centered"
+    page_title="Retro Runner", page_icon="🎮", layout="centered"
 )
 
 
@@ -577,7 +577,7 @@ def reset_game():
 
 
 # Main app
-st.markdown('<h1 class="title">🎮RETRO PIXEL PLATFORMER🎮</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="title">🎮Retro Runner🎮</h1>', unsafe_allow_html=True)
 st.markdown(
     f"""
 <div class="stats">
@@ -646,7 +646,7 @@ else:
     # COMMENTING FOR NOW
     # st.markdown("""
     #     <div style='text-align: center; margin-top: 50px;'>
-    #         <h2 style='color: #ffd700; font-size: 30px;'>Welcome to Retro Pixel Platformer!</h2>
+    #         <h2 style='color: #ffd700; font-size: 30px;'>Welcome to Retro Runner!</h2>
     #         <p style='font-size: 20px; margin-bottom: 30px;'>Collect coins and gems to complete levels</p>
     #         <ul style='text-align: left; max-width: 500px; margin: 0 auto; font-size: 18px;'>
     #             <li>Use Left and Right buttons to move</li>
